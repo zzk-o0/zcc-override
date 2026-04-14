@@ -1,3 +1,5 @@
+name: zzk custom rules
+
 proxy-groups:
   - name: 自动选择
     type: url-test
